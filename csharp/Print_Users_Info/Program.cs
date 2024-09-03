@@ -1,6 +1,6 @@
 ﻿/*
 
-    Print Users Info
+    write aprogram to print users info
  
 */
 
