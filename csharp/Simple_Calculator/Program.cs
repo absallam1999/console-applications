@@ -1,6 +1,6 @@
 ﻿/*
  
-    Simple Calculator to Calculate User Inputs
+    simple calculator to calculate users inputs
     
 */
 
