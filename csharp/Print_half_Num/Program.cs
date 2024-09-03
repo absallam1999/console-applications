@@ -1,6 +1,6 @@
 ﻿/*
 
-    Write aprogram to ask the user to input number, then print the half of the number.
+    write aprogram to ask the user to input number, then print the half of the number.
  
 */
 
