@@ -1,6 +1,6 @@
 ﻿/*
 
-    Calculate Your Salary
+    write aprogram to calculate your salary
  
 */
 
