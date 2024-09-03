@@ -1,7 +1,7 @@
 /*
  ** Name:        Calculate Your Age
  ** Version:     2.0.0
- ** Description: Application to Calculate Age in (Months, Days, Hours, Minutes, Seconds)
+ ** Description: Application to Calculate Age in (Months, Weaks, Days, Hours, Minutes, Seconds)
  ** Author:      Absallam
  ** Tools:       C++
 */
