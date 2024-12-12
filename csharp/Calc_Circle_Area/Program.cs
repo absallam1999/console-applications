@@ -18,7 +18,7 @@ namespace Calc_Circle_Area
 
             Console.WriteLine("Enter Radius Number");
             int a = Convert.ToInt16(Console.ReadLine());
-            var Area = (3.14) * (a * a);
+            int Area = (3.14) * (a * a);
 
             Console.WriteLine("Circle Area = " + Area);
 
