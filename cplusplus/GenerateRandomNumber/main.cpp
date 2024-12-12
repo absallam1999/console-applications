@@ -17,7 +17,7 @@ void generateRandNum(int& num) {
 int main()
 {
     int num;
-    std::cout << "Enter Length to Generate\n";
+    std::cout << "Enter Length to Generate: \n";
     std::cin >> num;
 
     generateRandNum(num);
