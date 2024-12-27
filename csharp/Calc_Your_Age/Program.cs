@@ -30,7 +30,7 @@ namespace Calc_Your_Age
             Console.WriteLine("Your Age in Hours is " + age_in_Hours);
             Console.WriteLine("Your Age in Minutes is " + age_in_Minutes);
             Console.WriteLine("Your Age in Seconds is " + age_in_Seconds);
-            Console.WriteLine("Be Sure That numbers are not 100% Correct.. nothing in this world you can be 100% certain of.");
+            Console.WriteLine("** Note That numbers are not 100% Correct. **");
 
             Console.ReadLine();
         }
