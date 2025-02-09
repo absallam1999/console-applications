@@ -3,7 +3,6 @@
 
 int main()
 {
-
     int x;
     
     printf("Please Enter Value: \n");
