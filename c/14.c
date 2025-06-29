@@ -1,5 +1,5 @@
 /* Write a C code to manage a class of 10 students.
- ** Each student studies 4 subjects (Math, Language, Physicsand Chemistry).
+ ** Each student studies 4 subjects (Math, Language, Physics and Chemistry).
  ** First define an array of 10 elements and assign random grads for students.
  ** The System will ask the user to enter the student ID then the system will show its grads.
  ** The System shall manage wrong IDs.
